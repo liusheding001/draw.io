@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-04T03:11:19.811Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="EAq3HsiaQ3efQx32GiqR" version="12.3.6" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-04T03:11:43.586Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="R-oR6sO3obBTQ6s99kYC" version="12.3.6" type="github" pages="1">
   <diagram id="J5xe0iKr1IKNODLN_qi7" name="第 1 页">
     <mxGraphModel dx="879" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -36,6 +36,9 @@
         </mxCell>
         <mxCell id="XBM7geb0VtnZKx5DZMU2-24" value="情报&lt;br&gt;线索&lt;br&gt;接入" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="130" y="70" width="40" height="290" as="geometry"/>
+        </mxCell>
+        <mxCell id="XBM7geb0VtnZKx5DZMU2-26" value="系统&lt;br&gt;数据&lt;br&gt;录入" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="730" y="70" width="40" height="290" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
