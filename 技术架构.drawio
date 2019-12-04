@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-04T03:40:04.646Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="USBVpWQE3iD66-Eer23I" version="12.3.6" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-04T03:45:44.131Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="rJlyu6JFzA8WYOZtjvy-" version="12.3.6" type="github" pages="1">
   <diagram id="wH5oIil5O3f5OFuHpAPj" name="第 1 页">
     <mxGraphModel dx="893" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -25,14 +25,38 @@
         <mxCell id="3A5Cxgbc8CVoEQmnolI1-6" value="日志" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="500" y="494" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="3A5Cxgbc8CVoEQmnolI1-7" value="计算" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="3A5Cxgbc8CVoEQmnolI1-7" value="计算/调度" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="50" y="340" width="60" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="3A5Cxgbc8CVoEQmnolI1-8" value="应用" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="3A5Cxgbc8CVoEQmnolI1-8" value="应用服务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="50" y="200" width="60" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="3A5Cxgbc8CVoEQmnolI1-9" value="安全" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="50" y="80" width="60" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="3A5Cxgbc8CVoEQmnolI1-10" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="140" y="255" width="269" height="190" as="geometry"/>
+        </mxCell>
+        <mxCell id="3A5Cxgbc8CVoEQmnolI1-11" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
+          <mxGeometry x="461" y="255" width="180" height="190" as="geometry"/>
+        </mxCell>
+        <mxCell id="3A5Cxgbc8CVoEQmnolI1-12" value="人脸识别" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="170" y="280" width="90" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="3A5Cxgbc8CVoEQmnolI1-13" value="情报分析" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="171.5" y="340" width="90" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="3A5Cxgbc8CVoEQmnolI1-14" value="非法采砂建模" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="290" y="280" width="90" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="3A5Cxgbc8CVoEQmnolI1-15" value="非常捕捞" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="290" y="335" width="90" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="3A5Cxgbc8CVoEQmnolI1-16" value="其他非法活动建模" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="291.5" y="390" width="90" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="3A5Cxgbc8CVoEQmnolI1-17" value="排污建模" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="170" y="390" width="90" height="40" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
