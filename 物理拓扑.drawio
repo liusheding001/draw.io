@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-04T09:50:53.698Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="9nrHENyWqPZmuqNKDazQ" version="12.3.6" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-04T09:55:36.442Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="sLULXhIGnzkJolAWHp8y" version="12.3.6" type="github" pages="1">
   <diagram id="n-bRcWE0r8VkI2KVZlSZ" name="第 1 页">
     <mxGraphModel dx="1191" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -116,8 +116,15 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="kT1cKuFMZ1Jc9TSjfXU1-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.024;entryY=0.425;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="kT1cKuFMZ1Jc9TSjfXU1-5" target="kT1cKuFMZ1Jc9TSjfXU1-71">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="219"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="kT1cKuFMZ1Jc9TSjfXU1-5" value="防火墙" style="shape=mxgraph.cisco.security.firewall;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;rotation=90;direction=north;" vertex="1" parent="1">
-          <mxGeometry x="220" y="416" width="217" height="33" as="geometry"/>
+          <mxGeometry x="216" y="416" width="217" height="33" as="geometry"/>
         </mxCell>
         <mxCell id="kT1cKuFMZ1Jc9TSjfXU1-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kT1cKuFMZ1Jc9TSjfXU1-6" target="kT1cKuFMZ1Jc9TSjfXU1-4">
           <mxGeometry relative="1" as="geometry"/>
@@ -201,6 +208,9 @@
         </mxCell>
         <mxCell id="kT1cKuFMZ1Jc9TSjfXU1-58" value="数据模型&lt;br&gt;计算处理" style="shape=mxgraph.cisco.misc.hp_mini;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="332.5" y="196.5" width="35" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="kT1cKuFMZ1Jc9TSjfXU1-71" value="大屏指挥中心" style="shape=mxgraph.signs.tech.computer;html=1;pointerEvents=1;fillColor=#bac8d3;strokeColor=#23445d;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="118" y="177" width="98" height="98" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
