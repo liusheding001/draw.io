@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-04T09:36:50.760Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="fqcTFDaesVAk4_8AuFQq" version="12.3.6" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-04T09:37:22.465Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="WE_A-HaSu7v3lJ5A8SrS" version="12.3.6" type="github" pages="1">
   <diagram id="n-bRcWE0r8VkI2KVZlSZ" name="第 1 页">
     <mxGraphModel dx="1191" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -33,7 +33,7 @@
         <mxCell id="kT1cKuFMZ1Jc9TSjfXU1-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="XVNO729LVndD_g4eHp7l-6" target="XVNO729LVndD_g4eHp7l-10">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="XVNO729LVndD_g4eHp7l-6" value="交换机/路由" style="shape=mxgraph.cisco.routers.content_service_router;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
+        <mxCell id="XVNO729LVndD_g4eHp7l-6" value="交换机/路由" style="shape=mxgraph.cisco.routers.content_service_router;html=1;pointerEvents=1;dashed=0;fillColor=#b0e3e6;strokeColor=#0e8088;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="532.5" y="28.5" width="78" height="53" as="geometry"/>
         </mxCell>
         <mxCell id="kT1cKuFMZ1Jc9TSjfXU1-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XVNO729LVndD_g4eHp7l-7" target="kT1cKuFMZ1Jc9TSjfXU1-15">
@@ -92,7 +92,7 @@
         <mxCell id="kT1cKuFMZ1Jc9TSjfXU1-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kT1cKuFMZ1Jc9TSjfXU1-4" target="XVNO729LVndD_g4eHp7l-7">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="kT1cKuFMZ1Jc9TSjfXU1-4" value="专用网关" style="shape=mxgraph.cisco.hubs_and_gateways.vpn_gateway;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="kT1cKuFMZ1Jc9TSjfXU1-4" value="专用网关" style="shape=mxgraph.cisco.hubs_and_gateways.vpn_gateway;html=1;pointerEvents=1;dashed=0;fillColor=#bac8d3;strokeColor=#23445d;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="826.5" y="266.5" width="91" height="48" as="geometry"/>
         </mxCell>
         <mxCell id="kT1cKuFMZ1Jc9TSjfXU1-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.83;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kT1cKuFMZ1Jc9TSjfXU1-5" target="XVNO729LVndD_g4eHp7l-1">
@@ -155,7 +155,7 @@
         <mxCell id="kT1cKuFMZ1Jc9TSjfXU1-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kT1cKuFMZ1Jc9TSjfXU1-14" target="kT1cKuFMZ1Jc9TSjfXU1-34">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="kT1cKuFMZ1Jc9TSjfXU1-14" value="路由网关" style="shape=mxgraph.cisco.routers.content_service_router;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="kT1cKuFMZ1Jc9TSjfXU1-14" value="路由网关" style="shape=mxgraph.cisco.routers.content_service_router;html=1;pointerEvents=1;dashed=0;fillColor=#b1ddf0;strokeColor=#10739e;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="682" y="519.5" width="78" height="53" as="geometry"/>
         </mxCell>
         <mxCell id="kT1cKuFMZ1Jc9TSjfXU1-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kT1cKuFMZ1Jc9TSjfXU1-15" target="XVNO729LVndD_g4eHp7l-6">
