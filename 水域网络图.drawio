@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-04T03:06:42.582Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="AIWDciSjcfurzHMn2DbA" version="12.3.6" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-04T03:08:23.419Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="EhmHzExsw9WtUjZm_o1O" version="12.3.6" type="github" pages="1">
   <diagram id="J5xe0iKr1IKNODLN_qi7" name="第 1 页">
     <mxGraphModel dx="879" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -24,6 +24,12 @@
         </mxCell>
         <mxCell id="XBM7geb0VtnZKx5DZMU2-12" value="企业自建视频监控&lt;br&gt;" style="shape=mxgraph.signs.tech.video_camera;html=1;pointerEvents=1;fillColor=#d5e8d4;strokeColor=#82b366;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
           <mxGeometry x="622" y="440" width="98" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="XBM7geb0VtnZKx5DZMU2-21" value="义警线索上报" style="shape=mxgraph.signs.tech.camera_2;html=1;pointerEvents=1;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="30" y="180" width="60" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="XBM7geb0VtnZKx5DZMU2-22" value="船舶识别" style="shape=mxgraph.signs.transportation.ship_1;html=1;pointerEvents=1;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="15.5" y="270" width="89" height="52" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
